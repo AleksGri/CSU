@@ -42,3 +42,4 @@ division = num3 / num4
 # Displaying the results
 print("Multiplication of the numbers:", multiplication)
 print("Division of the numbers:", division)
+
